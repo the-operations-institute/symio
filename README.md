@@ -6,8 +6,7 @@ The Symio Applications Platform is an open-source platform conceived and maintai
 * to encourage 100% interface/data separation and data classification, allowing the creation of multiple unique interfaces that work with the same data; and
 * to promote a fully granular micro-service architecture, designed to allow "hot-swappable" program components even in closed-source applications.
 
-For more non-techy information, see [this doc](https://docs.google.com/document/d/1ObPCNre3Ye6FrtGGSghlhzoHeX_ls60id84Iq3Mc1m4/view)
-Or, for more tech-oriented information, try [this one](https://docs.google.com/document/d/1kz7cX8ZTgpDV7djrGcVXTgFRhvZrX20F5PzTjvR1rSQ/view)
+For more non-techy information, see [this doc](https://docs.google.com/document/d/1ObPCNre3Ye6FrtGGSghlhzoHeX_ls60id84Iq3Mc1m4/view). Or, for more tech-oriented information, try [this one](https://docs.google.com/document/d/1kz7cX8ZTgpDV7djrGcVXTgFRhvZrX20F5PzTjvR1rSQ/view)
 
 # Come Work On Symio!
 Symio is the first of what will be a long heritage of extremely high quality open source technology solutions managed by The Operations Institute to supercharge productivity and effectiveness in the nonprofit world. While the platform was conceived by The Operations Institute as a fundamental building block for solutions for nonprofit operations, it has yet to be expanded on and implemented.
